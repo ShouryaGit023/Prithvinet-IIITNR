@@ -1,5 +1,7 @@
 # 🌍 PrithviNet: Real-Time Environmental Compliance & Monitoring Ecosystem
 
+Direct link to deployed site - https://prithvinet-dashboard.onrender.com/
+
 > **PrithviNet** is a centralized, real-time command center designed for state environmental regulators to track industrial emissions, detect statistical anomalies using AI, and manage compliance workflows with zero latency. 
 
 Built as a high-performance hackathon solution, PrithviNet replaces static, refresh-heavy dashboards with a fully reactive, WebSocket-driven architecture. Whether an IoT sensor detects a PM2.5 spike or an inspector submits a report via Telegram, the entire ecosystem updates instantly across all connected screens.
